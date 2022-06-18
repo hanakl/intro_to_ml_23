@@ -3,33 +3,20 @@ layout: default
 ---
 
 # Workshop Description
-The interview process for technically demanding roles has been evolving rapidly
-over the last few decades. In this workshop, we'll cover the fundamentals of
-what you need to know to *get started* with preparing for *your* technical
-interview journey (everyone's is different!).
-  * The *Introductory* workshop will cover aspects of an Interview that may
-be helpful as you search for **internships**, such
-as:
-    * What to expect when interviewing for different technical roles; i.e.
-what's the difference between an MLE, a DS, and SWE?
-    * How to prepare for "softball" interview questions within a technical
-interview.
-    * Programming questions and analysis of algorithms using Python.
-    * Basic SQL
-  * The *Advanced* workshop covers topics that are of interest to students who
-may be preparing to graduate and get their first **job**. 
-    * How does the difficulty of questions scale with the level
-expectation of the role?
-    * Programming questions at an intermediary level of complexity, solved using
-C++.
-    * Advanced SQL
+TODO(instructor): fill in this section with a description of your workshop.
 
+This course covers the following aspects
+  * Topic 1, and
+  * Topic 2, ...
+  
+It may be helpful to know that you can *italicize* text with single-asterisks
+(or alternatively, using _underscores_),
+and that you can **bold** text using double-asterisks.
 
-_Prerequisites:_ We're targeting students who have programming experience and a background in mathematics and sciences; the workshop(s) won't cover *how* to program in Python or C++: if you want to learn more about that, see e.g. 
-my [Introductory Course Notes](https://github.com/CME211/notes#contents).
-We anticipate that you understand the basic data structures
-and control-flow (such as List and For-loops in Python), and for the advanced
-workshop we're expecting that you understand (proficiently!) the Standard Template Library in C++.
+If you want to insert a link, use `[` in order to delimit the text that you wish
+to appear in the web-UI, and after closing the text with `]`insert the URL in a
+set of `()`, e.g. [here is a link to ICME's
+website](https://icme.stanford.edu/).
 
 ## About the Instructor
 
