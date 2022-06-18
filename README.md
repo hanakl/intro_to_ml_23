@@ -4,6 +4,23 @@ website creation. The steps laid out below are intended to guide you through
 the process of creating a publicly viewable [Github
 Page(s)](https://pages.github.com/) that are templated with ICME Summer Workshops in mind. It is the author's belief that by creating a unified template to work from, that students can focus more on learning the content of the courses and worry less about how to navigate through each course's custom website UI; this is important since many students involved with Summer Workshops tend to take multiple courses.
 
+
+## Filling in the contents of the website
+The file `index.md` is really the file that you want to look at and modify when
+changing your website.
+
+Please replace `TODO(instructor)` comments with the relevant text that is being
+requested to be filled in. If you're wondering about a complete listing of
+`TODO`'s, simply navigate to your working directory in a Command Line Interface
+and execute the following command:
+
+```
+grep -r 'TODO(instructor)' *
+```
+
+This will then pull up a listing of remaining to-do items that need to be
+cleared before the website is ready for students to view/use.
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
