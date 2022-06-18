@@ -44,23 +44,28 @@ workshop. E.g.
 2. Familiarize with the schedule posted below.
 
 ## Schedule
+TODO(instructor): Make sure the dates and times are accurate below for your
+course. E.g. replace `?`'s with the hour (or time-of-day) 
+that your course starts. Adjust time schedules within each session.
 
-#### Session 1 (7:15 - 8:20 P.M. PST)
-  - 50 minute "lecture"
+#### Session 1 (?:00 - ?: ?.M. PST)
+  - Topic 1 with example time-allocation.
+  - Topic 2 with example time-allocation, etc.
   - 15 minute Q&A
   
-#### Session 2 (8:30 - 9:25 P.M. PST)
-  - 45 minute "lecture"
-  - 10 minute Q&A
+#### Session 2 (?:00 - ?:00 ?.M. PST)
+  - Something similar as above.
 
 ## Additional Resources
 
 Here are some additional resources for various topics:
-- [Cracking the Coding
-Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?dchild=1&gclid=CjwKCAjw8KmLBhB8EiwAQbqNoMSrpmQPQieksWJOsjkCmmauc28A2CA2yhMH4kdq12ocSJDXxKm1lBoCqMUQAvD_BwE&hvadid=241870593966&hvdev=c&hvlocphy=9032063&hvnetw=g&hvqmt=e&hvrand=392226786370352375&hvtargid=kwd-20040243067&hydadcr=16409_10304044&keywords=cracking+the+coding+interview&qid=1634382690&sr=8-1)
-- [Unofficial Google Data Science
-Blog](https://www.unofficialgoogledatascience.com/)
-- [CME 211 Notes](https://github.com/CME211/notes#contents)
+
+TODO(instructor): fill in with pertinent resources.
+
+
+
+
+
 
 
 
