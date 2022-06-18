@@ -67,5 +67,3 @@ TODO(instructor): fill in with pertinent resources.
 
 
 
-
-
