@@ -47,6 +47,30 @@ actually publish them to your website and inspect the live URL.
   ```
   <github_username>.github.io/summer-workshop
   ```
+  
+## Website Structure
+### Modifying `index.md`
+We mentioned previously that `index.md` is the backbone of the website; please
+take your time to go through this raw-file and replace / update the contents
+with information that is pertinent to your workshop.
+
+There are, however, some additional sources of input used when constructing the
+website.
+
+### The left-panel of the website
+There is some meta-data that needs to get updated within the left panel of the
+site. Please go through the following steps
+
+  * Within `_site/index.html`:
+    * Update _when_ your workshop is occurring (line 41)
+    * Update any _downloads_ that are relevant to your workshop (line 45); copy-paste line-45 multiple times and update `href` tag to point to workshop file-content.
+      * To be explicit, you should place your workshop content in an
+appropriately named file within the `docs/` folder, making sure to commit and
+push your changes to GitHub. Then, whatever you chose for your filename, make
+sure to insert that filename on line 45.
+    * Update your name to appear as Lecturer on line 60, and on this same line
+also replace `SUNET` with your relevant `SUNET` (or more generally, your email
+address).
 
 # The Minimal theme
 
