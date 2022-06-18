@@ -71,6 +71,8 @@ sure to insert that filename on e.g. line 39.
     * Update your name to appear as Lecturer on line 51, and on this same line
 also replace `SUNET` with your relevant `SUNET` (or more generally, your email
 address).
+  * Within `_config.yml`:
+    * Replace the `title:` attribute with a name more pertinent to your particular workshop.
 
 # The Minimal theme
 
