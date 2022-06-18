@@ -20,27 +20,17 @@ website](https://icme.stanford.edu/).
 
 ## About the Instructor
 
-![Andreas Santucci](/assets/img/profile.jpg){:style="max-width:30%;"}
+TODO(instructor): create a profile photo in two steps.
 
-Andreas Santucci graduated from Stanford in 2017 with a degree in Computational
-and Mathematical Engineering. During his time at Stanford, Andreas did
-causal-inference research with 
-[Guido Imbens](https://imbens.people.stanford.edu/), who was named a Nobel
-Laureate in 2021, and also aced qualifying exams in his favorite subjects
-including Discrete Mathematics and Algorithms as well as Stochastic Processes.
+  * Replace "instructor-name" in the image-link below with your name.
+  * Move the image you would like to appear on your website into the 
+    following folder contained in your website's working directory
+    ```
+    /assets/img/profile.jpg
+    ```
+![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-Andreas is currently taking on multiple roles within industry and academia
-simultaneously:
-  * At Google, Andreas is a Data Scientist: he designs state of the art
-recommendation algorithms for YouTube, and pursues cutting edge techniques for
-statistical inference on sparse data, for example. He also dances the boundary between a SWE/MLE role, often implementing ideas into production himself using (distributed) C++, training models, running live-traffic experiments, etc.
-  * At Stanford, Andreas is a Lecturer at [ICME](https://icme.stanford.edu/): he teaches a *sequence* of
-graduate-level software development courses that showcase advanced usage of
-modern C++.
-  * At the 
-  [Society for Industrial and Applied Mathematics](https://www.siam.org/): he   serves on the
-Education Committee, where the objective is to facilitate getting students
-involved with STEM.
+TODO(instructor): insert a description about yourself here!
 
 # Workshop Materials
 
