@@ -43,7 +43,8 @@ actually publish them to your website and inspect the live URL.
       * `git add 'my_recently_modified_file'`
       * `git commit -m 'Insert a helpful commit message here.'`
       * `git push` (possibly followed by an authentication step)
-  * User your web-browser to navigate to the following link:
+    Note: there is some latency between pushing changing and having them deployed to the live website; to view the build process simply navigate to the `Actions` tab within the upper-panel of the GitHub UI, and then you should see "All workflows" and within it the progress of `pages-build-deployment`.
+  * Use your web-browser to navigate to the following link:
   ```
   <github_username>.github.io/icme-summer-workshop-template
   ```
