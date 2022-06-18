@@ -45,7 +45,7 @@ actually publish them to your website and inspect the live URL.
       * `git push` (possibly followed by an authentication step)
   * User your web-browser to navigate to the following link:
   ```
-  <github_username>.github.io/summer-workshop
+  <github_username>.github.io/icme-summer-workshop-template
   ```
   
 ## Website Structure
