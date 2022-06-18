@@ -1,3 +1,9 @@
+# ICME Summer Workshop Website Template
+This repository is intended for ICME Summer Workshop Instructors, to facilitate
+website creation. The steps laid out below are intended to guide you through
+the process of creating a publicly viewable [Github
+Page(s)](https://pages.github.com/) that are templated with ICME Summer Workshops in mind. It is the author's belief that by creating a unified template to work from, that students can focus more on learning the content of the courses and worry less about how to navigate through each course's custom website UI; this is important since many students involved with Summer Workshops tend to take multiple courses.
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
