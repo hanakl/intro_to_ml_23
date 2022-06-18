@@ -21,6 +21,33 @@ grep -r 'TODO(instructor)' *
 This will then pull up a listing of remaining to-do items that need to be
 cleared before the website is ready for students to view/use.
 
+## Previewing your website
+You'll want to get an idea for what the website currently looks like as you
+modify it. There are is a set-up step and two recurring steps that must be done
+with each change you wish to make. 
+
+### Initial Github Pages Set-up
+To set-up your website initially,
+navigate to the Github-UI for your repository (e.g. something like
+`github.com/<username>/<repository-name>`), then click the `settings` pane
+toward the top-right corner of the page, then click `pages` within the bottom of
+the left pane, then under the **Source** section select that you wish to use
+`main` branch and hit "save". You should now see text-appear within the page
+that says, "Your site is ready to be published at: <url>".
+
+### Previewing Changes
+When you make changes to your website, one way to view your changes would be to
+actually publish them to your website and inspect the live URL.
+  * Commit changes to Github _and push_ said changes to your online repository.
+    This would be done via a sequence of commands, e.g.
+      * `git add 'my_recently_modified_file'`
+      * `git commit -m 'Insert a helpful commit message here.'`
+      * `git push` (possibly followed by an authentication step)
+  * User your web-browser to navigate to the following link:
+  ```
+  <github_username>.github.io/summer-workshop
+  ```
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
