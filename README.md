@@ -62,14 +62,13 @@ website.
 There is some meta-data that needs to get updated within the left panel of the
 site. Please go through the following steps
 
-  * Within `_site/index.html`:
-    * Update _when_ your workshop is occurring (line 41)
-    * Update any _downloads_ that are relevant to your workshop (line 45); copy-paste line-45 multiple times and update `href` tag to point to workshop file-content.
+  * Within `_layouts/default.html`:
+    * Update any _downloads_ that are relevant to your workshop (lines 39-41):
       * To be explicit, you should place your workshop content in an
 appropriately named file within the `docs/` folder, making sure to commit and
 push your changes to GitHub. Then, whatever you chose for your filename, make
-sure to insert that filename on line 45.
-    * Update your name to appear as Lecturer on line 60, and on this same line
+sure to insert that filename on e.g. line 39.
+    * Update your name to appear as Lecturer on line 51, and on this same line
 also replace `SUNET` with your relevant `SUNET` (or more generally, your email
 address).
 
