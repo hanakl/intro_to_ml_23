@@ -4,6 +4,18 @@ website creation. The steps laid out below are intended to guide you through
 the process of creating a publicly viewable [Github
 Page(s)](https://pages.github.com/) that are templated with ICME Summer Workshops in mind. It is the author's belief that by creating a unified template to work from, that students can focus more on learning the content of the courses and worry less about how to navigate through each course's custom website UI; this is important since many students involved with Summer Workshops tend to take multiple courses.
 
+## Taking the first step
+Initially, you'll want to be at least a little bit familiar with Git; see
+[About Git](https://docs.github.com/en/get-started/using-git/about-git) for more information on getting started with basic commands if you're unfamiliar with how this tooling works. Then, I would recommend you go through the following two steps:
+
+1. Within the GitHub UI, create a new repository and clone it to your local
+machine; the repository name should be reflective of how you wish for your
+website-name to be specified. I.e. website URL's will be of the form
+`<github_id>.github.io/<repository_name>`.
+2. Also within the Github UI, clone the `icme-summer-workshop-template`
+repository to your local machine.
+3. Copy the contents of the `icme-summer-workshop-template` into the repository
+created in the first step. Commit these changes and push them to GitHub.
 
 ## Filling in the contents of the website
 The file `index.md` is really the file that you want to look at and modify when
