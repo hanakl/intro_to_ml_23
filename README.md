@@ -2,11 +2,16 @@
 This repository is intended for ICME Summer Workshop Instructors, to facilitate
 website creation. The steps laid out below are intended to guide you through
 the process of creating a publicly viewable [Github
-Page(s)](https://pages.github.com/) that are templated with ICME Summer Workshops in mind. It is the author's belief that by creating a unified template to work from, that students can focus more on learning the content of the courses and worry less about how to navigate through each course's custom website UI; this is important since many students involved with Summer Workshops tend to take multiple courses.
+Page(s)](https://pages.github.com/) that are templated with ICME Summer Workshops in mind. 
+
+It is the author's belief that by creating a unified template to work from, that students can focus more 
+on learning the content of the courses and worry less about how to navigate through each course's custom website UI; 
+this is important since many students involved with Summer Workshops tend to take multiple courses.
 
 ## Taking the first step
 Initially, you'll want to be at least a little bit familiar with Git; see
-[About Git](https://docs.github.com/en/get-started/using-git/about-git) for more information on getting started with basic commands if you're unfamiliar with how this tooling works. Then, I would recommend you go through the following two steps:
+[About Git](https://docs.github.com/en/get-started/using-git/about-git) for more information on getting started 
+with basic commands if you're unfamiliar with how this tooling works. Then, I would recommend you go through the following two steps:
 
 1. Within the GitHub UI, create a new repository and clone it to your local
 machine; the repository name should be reflective of how you wish for your
