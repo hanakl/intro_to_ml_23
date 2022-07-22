@@ -8,15 +8,15 @@ This workshop presents the basics behind understanding and using modern machine 
 Prerequisites: Undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 
 ## About the Instructor
-![Alexander Ioannidis](/assets/img/alex.jpg){:style="max-width:30%;"}
+![Alexander Ioannidis](/assets/img/alex.png){:style="max-width:30%;"}
 Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
 
 # Workshop Materials
 
 ## Pre-workshop Checklist
-Sign up for Piazza (class code icme). We will be using Piazza to answer questions during the workshop.
-You should have received a welcome email with the Zoom link and password. Please email us (tanishj [at] stanford [dot] edu) if you haven’t.
-Familiarize yourself with the schedule and see you Monday August 16th at 8:00 am PT!
+1. Sign up for Piazza (class code icme). We will be using Piazza to answer questions during the workshop.
+2. You should have received a welcome email with the Zoom link and password. Please email us (hanakl [at] stanford [dot] edu) if you haven’t.
+3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
 ## Schedule
 TODO(instructor): Make sure the dates and times are accurate below for your
