@@ -8,29 +8,15 @@ This workshop presents the basics behind understanding and using modern machine 
 Prerequisites: Undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 
 ## About the Instructor
-
-TODO(instructor): create a profile photo in two steps.
-
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![Alexander Ioannidis](/assets/img/profile.jpg){:style="max-width:30%;"}
-
-TODO(instructor): Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
+![Alexander Ioannidis](/assets/img/alex.jpg){:style="max-width:30%;"}
+Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
 
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
-
-1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
+Sign up for Piazza (class code icme). We will be using Piazza to answer questions during the workshop.
+You should have received a welcome email with the Zoom link and password. Please email us (tanishj [at] stanford [dot] edu) if you haven’t.
+Familiarize yourself with the schedule and see you Monday August 16th at 8:00 am PT!
 
 ## Schedule
 TODO(instructor): Make sure the dates and times are accurate below for your
