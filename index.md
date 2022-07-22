@@ -3,20 +3,9 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
+This workshop presents the basics behind understanding and using modern machine learning algorithms. We will discuss a framework for reasoning about when to apply various machine learning techniques, emphasizing questions of over-fitting/under-fitting, interpretability, supervised/unsupervised methods, and handling of missing data. The principles behind various algorithms—the why and how of using them—will be discussed, while some mathematical detail underlying the algorithms—including proofs—will not be discussed. Unsupervised machine learning algorithms presented will include k-means clustering, principal component analysis (PCA), multidimensional scaling (MDS), tSNE, and independent component analysis (ICA). Supervised machine learning algorithms presented will include support vector machines (SVM), lasso, elastic net, classification and regression trees (CART), boosting, bagging, and random forests. Imputation, regularization, and cross-validation concepts will also be covered. The R programming language will be used for occasional examples, though participants need not have prior exposure to R.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+Prerequisites: Undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 
 ## About the Instructor
 
@@ -30,9 +19,9 @@ sticky note with "To Do" written on it).
     ```
     /assets/img/profile.jpg
     ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+![Alexander Ioannidis](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-TODO(instructor): insert a description about yourself here!
+TODO(instructor): Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
 
 # Workshop Materials
 
