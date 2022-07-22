@@ -10,6 +10,7 @@ Prerequisites: Undergraduate-level linear algebra and statistics; basic programm
 ## About the Instructor
 ![Alexander Ioannidis](/assets/img/alex.png){:style="max-width:30%;"}
 
+
 Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
 
 # Workshop Materials
@@ -20,74 +21,42 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
 ## Schedule
+ISL = Introduction to Statistical Learning
+ESL = Elements of Statistical Learning
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
-- Overview of Machine Learning [slides]
-ISL: Chapter 2
+##### Overview of Machine Learning [slides]
+###### ISL: Chapter 2
 
 - Clustering (K-means, Hierarchical Clustering) [slides]
 ISL: Section 12.4 and 12.5.4
-
--Gap Statistic paper (here)
+Gap Statistic paper (here)
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
 
-Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [slides]
-
+-Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [slides]
 ISL: Section 12.2 and 12.5.1 (PCA)
-
 ESL: 14.4 (Self-Organizing Maps, SOM)
-
 ESL: Section 14.7.2 (ICA, advanced topic, skim only)
-
 ESL: 14.8 (Multidimensional Scaling)
-
 PCA code in R and corresponding dataset (chemical levels in olive oils from different regions)
-
 SOM code in R (OS X users must first install X Quartz)
-
 Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets, (here)
-
 MDS example, see "America’s Broken Politics”  (article, New York Times) and http://voteview.com/polarized_america.htm
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
-Imputation [slides]
-
+-Imputation [slides]
 ISL: Section 12.3 and 12.5.2
-
 ESL: Section 9.6 (imputation)
-
-  
-#### Session 2 (?:00 - ?:00 ?.M. PST)
-  - Something similar as above.
-
-## Additional Resources
-
-Here are some additional resources for various topics:
-
-TODO(instructor): fill in with pertinent resources.
-
-
-ISL = Introduction to Statistical Learning
-
-ESL = Elements of Statistical Learning
-
-Day 1 Unsupervised Learning
-
-
-
 
 ### Day 2 Unsupervised Learning
 
 #### Session 1 (8 am - 9:25 am PST)
 
-Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [slides]
-
+-Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [slides]
 "Many Psychology Findings Not as Strong as Claimed, Study Says" (article, New York Times)
-
 Kaggle Machine Learning competitions (a great place to get ideas)
-
 https://www.kaggle.com/
 
 Kaggle's official blog
@@ -118,5 +87,20 @@ Neural Nets teaser (regularization and deep learning) [slides]
 
 ISL: Section 10.1 - 10.2 and 10.7
 
+## Additional Resources
+
+An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 
+
+The full pdf is freely available from the authors here.
+
+The datasets for this book can be found here.
+
+The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.  
+
+This comprehensive reference presents more material, and at a higher mathematical level, than the preceding text. 
+
+The full pdf is freely available from the authors at the above link.
+
+Convex Optimization by Boyd and Vandenberghe, is an excellent introduction to convex optimization techniques.
 
 
