@@ -21,16 +21,16 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
 ## Schedule
-ISL = Introduction to Statistical Learning
-ESL = Elements of Statistical Learning
+ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
+ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
-##### Overview of Machine Learning [slides]
-###### ISL: Chapter 2
+- Overview of Machine Learning [slides](https://drive.google.com/file/d/1vB9ffg3j08f8NrIIUhs7SkAuZmkZT1QK/view)
+-- ISL: Chapter 2
 
 - Clustering (K-means, Hierarchical Clustering) [slides]
-ISL: Section 12.4 and 12.5.4
-Gap Statistic paper (here)
+-- ISL: Section 12.4 and 12.5.4
+-- Gap Statistic paper (here)
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
 
