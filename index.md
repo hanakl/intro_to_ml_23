@@ -21,8 +21,8 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
 ## Schedule
-- ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
-- ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
+ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
 1 Overview of Machine Learning [slides](https://drive.google.com/file/d/1vB9ffg3j08f8NrIIUhs7SkAuZmkZT1QK/view)
@@ -71,21 +71,16 @@ ESL: Section 3.5.1 (Principal Components Regression)
 
 #### Session 2 (9:35 am - 11:00 am PST)  
 
-Classification and Regression Trees
+1. Classification and Regression Trees
+- ISL: Section 8.1
+- [R Code for CART example](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
 
-ISL: Section 8.1
+2. Ensemble Methods (Boosting, Bagging, and Random Forests)
+- ISL: Section 5.2 and 5.3.4 (Bootstrap)
+- ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 
-R Code for CART example and corresponding dataset
-
-Ensemble Methods (Boosting, Bagging, and Random Forests)
-
-ISL: Section 5.2 and 5.3.4 (Bootstrap)
-
-ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
-
-Neural Nets teaser (regularization and deep learning) [slides]
-
-ISL: Section 10.1 - 10.2 and 10.7
+3. Neural Nets teaser (regularization and deep learning) [slides](https://drive.google.com/file/d/1YgxMhRlwwmDJS2Bs7XG26hmuHKTx1F26/view)
+- ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
 
