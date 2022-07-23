@@ -16,7 +16,7 @@ Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineeri
 # Workshop Materials
 
 ## Pre-workshop Checklist
-1. Sign up for Piazza (class code icme). We will be using Piazza to answer questions during the workshop.
+1. Sign up for [Piazza](https://piazza.com/configure-classes/summer2022/icmeintrotoml) (class code icme). We will be using Piazza to answer questions during the workshop.
 2. You should have received a welcome email with the Zoom link and password. Please email us (hanakl [at] stanford [dot] edu) if you haven’t.
 3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
@@ -58,7 +58,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1qXihNXjBo39h-9jIOjuMTdRutr7elTpq/view)]
   - "Many Psychology Findings Not as Strong as Claimed, Study Says" ([article](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html), New York Times)
   - Kaggle Machine Learning competitions (a great place to get ideas)
-    - [https://www.kaggle.com/]
+    - [https://www.kaggle.com/](https://www.kaggle.com/)
     - [Kaggle's official blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
     - [Compilation](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook) of past winning Kaggle solutions
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
@@ -89,8 +89,8 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 - [Convex Optimization by Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/), is an excellent introduction to convex optimization techniques.
 
 - R
-  - Download link for R programming language - [http://www.r-project.org/]
-  - Optional RStudio IDE - [http://www.rstudio.com/]
+  - Download link for R programming language - [http://www.r-project.org/](http://www.r-project.org/)
+  - Optional RStudio IDE - [http://www.rstudio.com/](http://www.rstudio.com/)
   - An excellent tutorial: [swirl](https://cran.r-project.org/web/packages/swirl/index.html).
   - If you want to dive deeper, look at the R for Data Science ([free](https://r4ds.had.co.nz/)) online text.
 
