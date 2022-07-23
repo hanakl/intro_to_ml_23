@@ -55,7 +55,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 1 (8 am - 9:25 am PST)
 
--Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1qXihNXjBo39h-9jIOjuMTdRutr7elTpq/view)]
+- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1qXihNXjBo39h-9jIOjuMTdRutr7elTpq/view)]
   - "Many Psychology Findings Not as Strong as Claimed, Study Says" ([article](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html), New York Times)
   - Kaggle Machine Learning competitions (a great place to get ideas)
     - [https://www.kaggle.com/]
@@ -67,7 +67,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 2 (9:35 am - 11:00 am PST)  
 
-- Classification and Regression Trees
+- Classification and Regression Trees[[slides](https://drive.google.com/file/d/1JxcPlBOtlLmRG5QngAMKV8hnkAMeknfU/view)]
   - ISL: Section 8.1
   - [R Code for CART example](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
 
@@ -80,18 +80,18 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 ## Additional Resources
 
-An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 
+- [An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0) 
+  - The datasets for this book can be found [here](https://www.statlearning.com/resources-second-edition).
 
-The full pdf is freely available from the authors here.
+- [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)  
+  - This comprehensive reference presents more material, and at a higher mathematical level, than the preceding text. 
 
-The datasets for this book can be found here.
+- [Convex Optimization by Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/), is an excellent introduction to convex optimization techniques.
 
-The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.  
-
-This comprehensive reference presents more material, and at a higher mathematical level, than the preceding text. 
-
-The full pdf is freely available from the authors at the above link.
-
-Convex Optimization by Boyd and Vandenberghe, is an excellent introduction to convex optimization techniques.
+- R
+  - Download link for R programming language - [http://www.r-project.org/]
+  - Optional RStudio IDE - [http://www.rstudio.com/]
+  - An excellent tutorial: [swirl](https://cran.r-project.org/web/packages/swirl/index.html).
+  - If you want to dive deeper, look at the R for Data Science ([free](https://r4ds.had.co.nz/)) online text.
 
 
