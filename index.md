@@ -55,33 +55,28 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 1 (8 am - 9:25 am PST)
 
--Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [slides]
-"Many Psychology Findings Not as Strong as Claimed, Study Says" (article, New York Times)
-Kaggle Machine Learning competitions (a great place to get ideas)
-https://www.kaggle.com/
-
-Kaggle's official blog
-
-Compilation of past winning Kaggle solutions
-
-ISL: Section 5.1 and Section 13.2 (Cross-validation) 
-
-ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
-
-ESL: Section 3.5.1 (Principal Components Regression)
+-Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1qXihNXjBo39h-9jIOjuMTdRutr7elTpq/view)]
+  - "Many Psychology Findings Not as Strong as Claimed, Study Says" ([article](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html), New York Times)
+  - Kaggle Machine Learning competitions (a great place to get ideas)
+    - [https://www.kaggle.com/]
+    - [Kaggle's official blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
+    - [Compilation](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook) of past winning Kaggle solutions
+  - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
+  - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
+  - ESL: Section 3.5.1 (Principal Components Regression)
 
 #### Session 2 (9:35 am - 11:00 am PST)  
 
-1. Classification and Regression Trees
-- ISL: Section 8.1
-- [R Code for CART example](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
+- Classification and Regression Trees
+  - ISL: Section 8.1
+  - [R Code for CART example](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
 
-2. Ensemble Methods (Boosting, Bagging, and Random Forests)
-- ISL: Section 5.2 and 5.3.4 (Bootstrap)
-- ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
+- Ensemble Methods (Boosting, Bagging, and Random Forests)
+  - ISL: Section 5.2 and 5.3.4 (Bootstrap)
+  - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 
-3. Neural Nets teaser (regularization and deep learning) [slides](https://drive.google.com/file/d/1YgxMhRlwwmDJS2Bs7XG26hmuHKTx1F26/view)
-- ISL: Section 10.1 - 10.2 and 10.7
+- Neural Nets teaser (regularization and deep learning) [[slides](https://drive.google.com/file/d/1YgxMhRlwwmDJS2Bs7XG26hmuHKTx1F26/view)]
+  - ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
 
