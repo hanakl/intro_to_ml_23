@@ -10,8 +10,7 @@ Prerequisites: Undergraduate-level linear algebra and statistics; basic programm
 ## About the Instructor
 ![Alexander Ioannidis](/assets/img/alex.png){:style="max-width:30%;"}
 
-
-Alexander Ioannidis earned his Ph.D. in Computational and Mathematical Engineering and Masters in Management Science and Engineering both at Stanford University. He is a research fellow working on developing novel machine learning techniques for medical and genomic applications in the Department of Biomedical Data Science at Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil from the University of Cambridge and conducted research for several years on novel superconducting and quantum computing architectures. In his free time, he enjoys sailing.
+Alexander Ioannidis is an Adjunct Professor in the Institute for Computational and Mathematical Engineering (CME) at Stanford. His research is in the Department of Biomedical Data Science at Stanford Medical School, where he focuses on computational methods for genomics and clinical data science with a particular focus on diverse populations, and at Galatea Bio, where he is vice president of data science. His Ph.D. is from Stanford in CME, and he also has an M.S. in Management Science & Engineering (Optimization) from Stanford. Prior to this he earned a bachelors in Chemistry and Physics from Harvard, an M.Phil in Computational Biology from the Dept. of Applied Math and Theoretical Physics at the University of Cambridge and conducted research for several years on quantum and superconducting computing logic at Northrop Grumman. In his free time, he enjoys sailing.
 
 # Workshop Materials
 
@@ -26,10 +25,8 @@ ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
-- Overview of Machine Learning [[slides](https://drive.google.com/file/d/1vB9ffg3j08f8NrIIUhs7SkAuZmkZT1QK/view)]
-  - ISL: Chapter 2
 
-- Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1C2eFJ_2FDCW66KtJUUscvUVRqnmVSn32/view)]
+- Clustering (K-means, Hierarchical Clustering) [[slides] [//]: # (https://drive.google.com/file/d/1C2eFJ_2FDCW66KtJUUscvUVRqnmVSn32/view)]
   - ISL: Section 12.4 and 12.5.4
   - [Gap Statistic paper](https://gwalther.su.domains/gap)
 
