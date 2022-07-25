@@ -26,25 +26,21 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
 
-- Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1C2eFJ_2FDCW66KtJUUscvUVRqnmVSn32/view)]
+- Clustering (K-means, Hierarchical Clustering)
   - ISL: Section 12.4 and 12.5.4
-  - [Gap Statistic paper](https://gwalther.su.domains/gap)
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
 
-- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [[slides](https://drive.google.com/file/d/1oucIfBGFgUqG7bUouHb5Vnxe1XiREv0M/view)]
+- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
   - ISL: Section 12.2 and 12.5.1 (PCA)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
   - ESL: 14.8 (Multidimensional Scaling)
-  - [PCA code in R](https://drive.google.com/file/d/0BzqeP3J9B8lZWXNtTWhPMWRiTjA/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZaG5GSzJEZ3lQMjA/edit?usp=sharing) (chemical levels in olive oils from different regions)
-  - [SOM code in R](https://drive.google.com/file/d/0BzqeP3J9B8lZU09vYlpBQzQxaVE/view?usp=sharing) (OS X users must first install [X Quartz](https://www.xquartz.org/))
-  - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
-  - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [http://voteview.com/polarized_america.htm]
+
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
-- Imputation [[slides](https://drive.google.com/file/d/1vD-YCpV6xOqZOtRxZpSf9TTqtaZgN15X/view)]
+- Imputation 
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (imputation)
 
@@ -52,27 +48,21 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 1 (8 am - 9:25 am PST)
 
-- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1qXihNXjBo39h-9jIOjuMTdRutr7elTpq/view)]
-  - "Many Psychology Findings Not as Strong as Claimed, Study Says" ([article](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html), New York Times)
-  - Kaggle Machine Learning competitions (a great place to get ideas)
-    - [https://www.kaggle.com/](https://www.kaggle.com/)
-    - [Kaggle's official blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
-    - [Compilation](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook) of past winning Kaggle solutions
+- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
 
 #### Session 2 (9:35 am - 11:00 am PST)  
 
-- Classification and Regression Trees[[slides](https://drive.google.com/file/d/1JxcPlBOtlLmRG5QngAMKV8hnkAMeknfU/view)]
+- Classification and Regression Trees
   - ISL: Section 8.1
-  - [R Code for CART example](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [corresponding dataset](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
-
+  - 
 - Ensemble Methods (Boosting, Bagging, and Random Forests)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 
-- Neural Nets teaser (regularization and deep learning) [[slides](https://drive.google.com/file/d/1YgxMhRlwwmDJS2Bs7XG26hmuHKTx1F26/view)]
+- Neural Nets teaser (regularization and deep learning) 
   - ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
