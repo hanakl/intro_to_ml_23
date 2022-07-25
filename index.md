@@ -42,7 +42,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Imputation 
   - ISL: Section 12.3 and 12.5.2
-  - ESL: Section 9.6 (imputation)
+  - ESL: Section 9.6 (Imputation)
 
 ### Day 2 Unsupervised Learning
 
@@ -57,7 +57,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Classification and Regression Trees
   - ISL: Section 8.1
-  - 
+
 - Ensemble Methods (Boosting, Bagging, and Random Forests)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
