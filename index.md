@@ -31,7 +31,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
 
-- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
+- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [[slides](https://drive.google.com/file/d/1ZBDJLOTP-pFKReROLWr7NmURnKyisL59/view?usp=sharing)]
   - ISL: Section 12.2 and 12.5.1 (PCA)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
