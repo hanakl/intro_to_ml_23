@@ -21,6 +21,7 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 
 ## Schedule
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
+
 [resources](https://www.statlearning.com/resources-second-edition)
 
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
