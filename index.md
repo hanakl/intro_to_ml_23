@@ -40,7 +40,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
-- Imputation 
+- Imputation [[slides](https://drive.google.com/file/d/1Uq7LNWM3wmF1q-W_zBOX3SZDjQNtvQlr/view?usp=sharing)]
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
 
