@@ -26,7 +26,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 ### Day 1 Unsupervised Learning
 #### Session 1 (8 am - 9:25 am PST)
 
-- Clustering (K-means, Hierarchical Clustering) [[slides](https://office365stanford-my.sharepoint.com/:b:/r/personal/hanakl_stanford_edu/Documents/Attachments/Clustering.pdf?csf=1&web=1&e=sESqnF)]
+- Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1qpU8PX3AIbNdgPrCMnuvhBk8NfSBbxr5/view?usp=sharing)]
   - ISL: Section 12.4 and 12.5.4
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
