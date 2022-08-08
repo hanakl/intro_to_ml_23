@@ -23,7 +23,7 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
 
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
-### Day 1 Unsupervised Learning [[recording] (https://stanford.zoom.us/rec/share/9-JzruY9MMXdu9R3AzqUSWRPAnKrHq-Tg8e1Ga2t7Mt4wLSCmiS-TqbtstF-6MSz.JkstSD383jSJs0zn?startTime=1659970930000)]
+### Day 1 Unsupervised Learning [[recording](https://stanford.zoom.us/rec/share/9-JzruY9MMXdu9R3AzqUSWRPAnKrHq-Tg8e1Ga2t7Mt4wLSCmiS-TqbtstF-6MSz.JkstSD383jSJs0zn?startTime=1659970930000)]
 #### Session 1 (8 am - 9:25 am PST)
 
 - Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1qpU8PX3AIbNdgPrCMnuvhBk8NfSBbxr5/view?usp=sharing)]
