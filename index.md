@@ -15,7 +15,7 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 # Workshop Materials
 
 ## Pre-workshop Checklist
-1. Sign up for [Piazza](piazza.com/stanford/summer2022/icmeintrotoml/home) (class code icme). We will be using Piazza to answer questions during the workshop.
+1. Sign up for [Piazza](https://www.piazza.com/stanford/summer2022/icmeintrotoml/home) (class code icme). We will be using Piazza to answer questions during the workshop.
 2. You should have received a welcome email with the Zoom link and password. Please email us (hanakl [at] stanford [dot] edu) if you haven’t.
 3. Familiarize yourself with the schedule and see you Monday August 8th at 8:00 am PT!
 
