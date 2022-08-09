@@ -60,10 +60,10 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 2 (9:35 am - 11:00 am PST)  
 
-- Classification and Regression Trees
+- Classification and Regression Trees [[slides](https://drive.google.com/file/d/1nlXE3P8Qaak6KtpAAygNWl3RasR46kYF/view?usp=sharing)]
   - ISL: Section 8.1
 
-- Ensemble Methods (Boosting, Bagging, and Random Forests)
+- Ensemble Methods (Boosting, Bagging, and Random Forests)[[slides](https://drive.google.com/file/d/1u3rKfjaiVT2bVB31652A1og-Hg2F7fMd/view?usp=sharing)]
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 
