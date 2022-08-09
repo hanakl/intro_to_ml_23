@@ -63,11 +63,11 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 - Classification and Regression Trees [[slides](https://drive.google.com/file/d/1nlXE3P8Qaak6KtpAAygNWl3RasR46kYF/view?usp=sharing)]
   - ISL: Section 8.1
 
-- Ensemble Methods (Boosting, Bagging, and Random Forests)[[slides](https://drive.google.com/file/d/1u3rKfjaiVT2bVB31652A1og-Hg2F7fMd/view?usp=sharing)]
+- Ensemble Methods (Boosting, Bagging, and Random Forests)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 
-- Neural Nets teaser (regularization and deep learning) 
+- Neural Nets teaser (regularization and deep learning)[[slides](https://drive.google.com/file/d/1u3rKfjaiVT2bVB31652A1og-Hg2F7fMd/view?usp=sharing)]
   - ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
