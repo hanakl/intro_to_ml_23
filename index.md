@@ -49,7 +49,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
 
-### Day 2 Unsupervised Learning
+### Day 2 Unsupervised Learning [[recording](https://stanford.zoom.us/rec/play/rUTb918sqmTz5pT8jkNTyirTYV46uBvgvJ_10lFjRPWeD1kPomwwYfwUIpHdjKO7mlgphcmLNmdiT029.osmXkhxkJrGNBOcZ?startTime=1660056060000&_x_zm_rtaid=7cs-p6r4TkGlQtlIrMLUTQ.1660082845826.60c4498b0f19b7ab366b6ca897e0793c&_x_zm_rhtaid=453)]
 
 #### Session 1 (8 am - 9:25 am PST)
 
