@@ -26,10 +26,12 @@ ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8
 
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning [[recording](https://stanford.zoom.us/rec/share/9-JzruY9MMXdu9R3AzqUSWRPAnKrHq-Tg8e1Ga2t7Mt4wLSCmiS-TqbtstF-6MSz.JkstSD383jSJs0zn?startTime=1659970930000)]
+### Day 2 Supervised Learning [[recording](https://stanford.zoom.us/rec/share/G8KwWDCz_Y2g-uAmieD1xwsJewthmYCzQryi3PYHcfqgd3yoUTKiwjS55A9KNNOu.Zuk20th2kDvr3nKc?startTime=1660056060000)]
 #### Session 1 (8 am - 9:25 am PST)
 
 - Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1qpU8PX3AIbNdgPrCMnuvhBk8NfSBbxr5/view?usp=sharing)]
   - ISL: Section 12.4 and 12.5.4
+    -  Gap Statistic [paper](https://hastie.su.domains/Papers/gap.pdf)
 
 #### Session 2 Unsupervised Learning (9:35 am - 10 am PST)
 
@@ -37,11 +39,11 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ISL: Section 12.2 and 12.5.1 (PCA)
     - Example PCA [code](https://drive.google.com/file/d/1yA-5HbcGnNutZjZyryFhBCZFj1falWdq/view?usp=sharing) for olive oil [data](https://drive.google.com/file/d/1O8VxEw71uXu1HuXnonj_FYidktv-9ZQM/view?usp=sharing)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
-    - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing)
+    - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing) OS X users must first install [X Quartz](https://www.xquartz.org/)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
     - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
   - ESL: 14.8 (Multidimensional Scaling, MDS)
-    - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [[voteview](http://voteview.com/polarized_america.htm)]
+    - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [[voteview](https://legacy.voteview.com/political_polarization_2015.htm)]
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
@@ -54,7 +56,8 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 #### Session 1 (8 am - 9:25 am PST)
 
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1Q4qTAr6PcHgA4J_ClYR_F1pW8ZNHxlLp/view?usp=sharing)]
-  - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
+  - ISL: Section 5.1 and Section 13.2 (Cross-validation)
+    - Many Psychology Findings Not as Strong as Claimed, Study Says" [(New York Times)](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html)
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
 
@@ -62,10 +65,12 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Classification and Regression Trees [[slides](https://drive.google.com/file/d/1nlXE3P8Qaak6KtpAAygNWl3RasR46kYF/view?usp=sharing)]
   - ISL: Section 8.1
+  - CART example R [code](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [data](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
 
 - Ensemble Methods (Boosting, Bagging, and Random Forests)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
+  - Kaggle [blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
 
 - Neural Nets teaser (regularization and deep learning)[[slides](https://drive.google.com/file/d/1u3rKfjaiVT2bVB31652A1og-Hg2F7fMd/view?usp=sharing)]
   - ISL: Section 10.1 - 10.2 and 10.7
