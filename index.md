@@ -67,7 +67,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ISL: Section 8.1
   - CART example R [code](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [data](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
 
-- Ensemble Methods (Boosting, Bagging, and Random Forests)
+- Ensemble Methods (Boosting, Bagging, and Random Forests) (see above slides)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
   - Kaggle [blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
