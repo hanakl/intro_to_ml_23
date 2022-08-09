@@ -35,13 +35,13 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [[slides](https://drive.google.com/file/d/1ZBDJLOTP-pFKReROLWr7NmURnKyisL59/view?usp=sharing)]
   - ISL: Section 12.2 and 12.5.1 (PCA)
-   - Example PCA [code](https://drive.google.com/file/d/1yA-5HbcGnNutZjZyryFhBCZFj1falWdq/view?usp=sharing) for olive oil [data](https://drive.google.com/file/d/1O8VxEw71uXu1HuXnonj_FYidktv-9ZQM/view?usp=sharing)
+    - Example PCA [code](https://drive.google.com/file/d/1yA-5HbcGnNutZjZyryFhBCZFj1falWdq/view?usp=sharing) for olive oil [data](https://drive.google.com/file/d/1O8VxEw71uXu1HuXnonj_FYidktv-9ZQM/view?usp=sharing)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
-   - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing)
+    - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
-   - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
+    - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
   - ESL: 14.8 (Multidimensional Scaling, MDS)
-   - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [http://voteview.com/polarized_america.htm]
+    - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and (http://voteview.com/polarized_america.htm)
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
