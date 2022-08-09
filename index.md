@@ -22,7 +22,7 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 ## Schedule
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
 
-[Resources for ISL](https://www.statlearning.com/resources-second-edition)
+[Coding examples from ISL](https://www.statlearning.com/resources-second-edition)
 
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning [[recording](https://stanford.zoom.us/rec/share/9-JzruY9MMXdu9R3AzqUSWRPAnKrHq-Tg8e1Ga2t7Mt4wLSCmiS-TqbtstF-6MSz.JkstSD383jSJs0zn?startTime=1659970930000)]
@@ -35,10 +35,13 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 - Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [[slides](https://drive.google.com/file/d/1ZBDJLOTP-pFKReROLWr7NmURnKyisL59/view?usp=sharing)]
   - ISL: Section 12.2 and 12.5.1 (PCA)
+   - Example PCA [code](https://drive.google.com/file/d/1yA-5HbcGnNutZjZyryFhBCZFj1falWdq/view?usp=sharing) for olive oil [data](https://drive.google.com/file/d/1O8VxEw71uXu1HuXnonj_FYidktv-9ZQM/view?usp=sharing)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
+   - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
-  - ESL: 14.8 (Multidimensional Scaling)
-
+   - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
+  - ESL: 14.8 (Multidimensional Scaling, MDS)
+   - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [http://voteview.com/polarized_america.htm]
 
 #### Session 3 Imputation (10:15 am - 11 am PST)
 
@@ -50,7 +53,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 #### Session 1 (8 am - 9:25 am PST)
 
-- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
+- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1Q4qTAr6PcHgA4J_ClYR_F1pW8ZNHxlLp/view?usp=sharing)]
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
