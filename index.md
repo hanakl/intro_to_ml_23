@@ -18,26 +18,26 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning
-#### Session 1 [//]: # (8 am - 9:25 am PST)
+#### Session 1 (1:00 pm - 2:25 pm PST)
 - Clustering (K-means, Hierarchical Clustering)
   - ISL: Section 12.4 and 12.5.4
-#### Session 2 Unsupervised Learning [//]: # (9:35 am - 10 am PST)
+#### Session 2 Unsupervised Learning (2:35 pm - 3:00 pm PST)
 - Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
   - ISL: Section 12.2 and 12.5.1 (PCA)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
   - ESL: 14.8 (Multidimensional Scaling)
-#### Session 3 Imputation [//]: # (10:15 am - 11 am PST)
+#### Session 3 Imputation (3:15 pm - 4:00 pm PST)
 - Imputation 
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
 ### Day 2 Unsupervised Learning
-#### Session 1 [//]: # (8 am - 9:25 am PST)
+#### Session 1 (1:00 pm - 2:25 pm PST)
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
-#### Session 2 [//]: # (9:35 am - 11:00 am PST)  
+#### Session 2 (2:35 pm - 4:00 pm PST)  
 - Classification and Regression Trees
   - ISL: Section 8.1
 - Ensemble Methods (Boosting, Bagging, and Random Forests)
