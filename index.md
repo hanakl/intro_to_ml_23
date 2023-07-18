@@ -28,16 +28,19 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ESL: 14.4 (Self-Organizing Maps, SOM)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
   - ESL: 14.8 (Multidimensional Scaling)
+
 #### Session 3 Imputation (3:15 pm - 4:00 pm PST)
 - Imputation 
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
+
 ### Day 2 Unsupervised Learning
 #### Session 1 (1:00 pm - 2:25 pm PST)
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
+
 #### Session 2 (2:35 pm - 4:00 pm PST)  
 - Classification and Regression Trees
   - ISL: Section 8.1
@@ -46,6 +49,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
 - Neural Nets teaser (regularization and deep learning) 
   - ISL: Section 10.1 - 10.2 and 10.7
+
 ## Additional Resources
 - [An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0) 
   - The datasets for this book can be found [here](https://www.statlearning.com/resources-second-edition).
