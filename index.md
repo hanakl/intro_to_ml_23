@@ -21,6 +21,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 #### Session 1 (1:00 pm - 2:25 pm PST)
 - Clustering (K-means, Hierarchical Clustering)
   - ISL: Section 12.4 and 12.5.4
+
 #### Session 2 Unsupervised Learning (2:35 pm - 3:00 pm PST)
 - Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
   - ISL: Section 12.2 and 12.5.1 (PCA)
