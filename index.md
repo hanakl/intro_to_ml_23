@@ -16,25 +16,31 @@ Alexander Ioannidis is an Adjunct Professor in the Institute for Computational a
 
 ## Schedule
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
+[Coding examples from ISL](https://www.statlearning.com/resources-second-edition)
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 ### Day 1 Unsupervised Learning
 #### Session 1 (1:00 pm - 2:25 pm PST)
-- Clustering (K-means, Hierarchical Clustering)
+- Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1a2wLKvhHm67KtgQbEX-j6fx9NiuIR1l2/view?usp=sharing)]
   - ISL: Section 12.4 and 12.5.4
+    -  Gap Statistic [paper](https://hastie.su.domains/Papers/gap.pdf)
 
 #### Session 2 Unsupervised Learning (2:35 pm - 3:00 pm PST)
-- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
+- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) [[slides](https://drive.google.com/file/d/1npVlfbUBHt3i7ONSahQV-p0ys-KqZEOu/view?usp=sharing)]
   - ISL: Section 12.2 and 12.5.1 (PCA)
+    - Example PCA [code](https://drive.google.com/file/d/1yA-5HbcGnNutZjZyryFhBCZFj1falWdq/view?usp=sharing) for olive oil [data](https://drive.google.com/file/d/1O8VxEw71uXu1HuXnonj_FYidktv-9ZQM/view?usp=sharing)
   - ESL: 14.4 (Self-Organizing Maps, SOM)
+    - Example SOM [code](https://drive.google.com/file/d/1VbIKAGp1iVBQAf4VhqRF8ew6hB0HyVw_/view?usp=sharing) OS X users must first install [X Quartz](https://www.xquartz.org/)
   - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
-  - ESL: 14.8 (Multidimensional Scaling)
+    - Paper on FastICA, skim sections 1 "Motivation" and 7 "Applications of ICA" for an overview of ICA, section 6 describes the FastICA algorithm, section 7.2 and figures 13-14 describe the example of sales across retail outlets [[here](http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf)]
+  - ESL: 14.8 (Multidimensional Scaling, MDS)
+    - MDS example, see "America’s Broken Politics”  [[article](https://www.nytimes.com/2014/11/06/opinion/nicholas-kristof-americas-political-dysfunction.html), New York Times] and [[voteview](https://legacy.voteview.com/political_polarization_2015.htm)]
 
 #### Session 3 Imputation (3:15 pm - 4:00 pm PST)
-- Imputation 
+- Imputation [[slides](https://drive.google.com/file/d/1G8rHE-j5eGYJB66d_ZLvqkj2UyUykkek/view?usp=sharing)]
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
 
-### Day 2 Unsupervised Learning
+### Day 2 Supervised Learning
 #### Session 1 (1:00 pm - 2:25 pm PST)
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
   - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
