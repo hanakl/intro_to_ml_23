@@ -42,18 +42,23 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
 
 ### Day 2 Supervised Learning
 #### Session 1 (1:00 pm - 2:25 pm PST)
-- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
-  - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
+- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1Q4qTAr6PcHgA4J_ClYR_F1pW8ZNHxlLp/view?usp=sharing)]
+  - ISL: Section 5.1 and Section 13.2 (Cross-validation)
+    - Many Psychology Findings Not as Strong as Claimed, Study Says" [(New York Times)](https://www.nytimes.com/2015/08/28/science/many-social-science-findings-not-as-strong-as-claimed-study-says.html)
   - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
   - ESL: Section 3.5.1 (Principal Components Regression)
 
 #### Session 2 (2:35 pm - 4:00 pm PST)  
-- Classification and Regression Trees
+- Classification and Regression Trees [[slides](https://drive.google.com/file/d/1nlXE3P8Qaak6KtpAAygNWl3RasR46kYF/view?usp=sharing)]
   - ISL: Section 8.1
-- Ensemble Methods (Boosting, Bagging, and Random Forests)
+  - CART example R [code](https://drive.google.com/file/d/0BzqeP3J9B8lZVDV0UjdzVFU4ZTQ/view?usp=sharing) and [data](https://drive.google.com/file/d/0BzqeP3J9B8lZMkdUOTVINUFnNVk/edit?usp=sharing)
+
+- Ensemble Methods (Boosting, Bagging, and Random Forests) (see above slides)
   - ISL: Section 5.2 and 5.3.4 (Bootstrap)
   - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
-- Neural Nets teaser (regularization and deep learning) 
+  - Kaggle [blog](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
+
+- Neural Nets teaser (regularization and deep learning)[[slides](https://drive.google.com/file/d/1u3rKfjaiVT2bVB31652A1og-Hg2F7fMd/view?usp=sharing)]
   - ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
