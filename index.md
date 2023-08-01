@@ -20,7 +20,7 @@ ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8
 [Coding examples from ISL](https://www.statlearning.com/resources-second-edition)
 
 ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
-### Day 1 Unsupervised Learning
+### Day 1 Unsupervised Learning [Recording](https://stanford.zoom.us/rec/share/moBT4kO-PZoOcyLAYYuG1GpwUpzKseIp37uASpR9lBknjs6vgLnmU6F1Qnz02ZS8.QwuxQ29J28LL3G0Q?startTime=1690833026000)
 #### Session 1 (1:00 pm - 2:25 pm PST)
 - Clustering (K-means, Hierarchical Clustering) [[slides](https://drive.google.com/file/d/1a2wLKvhHm67KtgQbEX-j6fx9NiuIR1l2/view?usp=sharing)]
   - ISL: Section 12.4 and 12.5.4
