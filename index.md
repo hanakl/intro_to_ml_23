@@ -42,7 +42,7 @@ ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn
   - ISL: Section 12.3 and 12.5.2
   - ESL: Section 9.6 (Imputation)
 
-### Day 2 Supervised Learning
+### Day 2 Supervised Learning [[Recording](https://stanford.zoom.us/rec/share/a6Oz9Uz7uyKS1ZD0XwVIlr3gYuKDukQuIg0iW6kfR2XRW8I7_jCzKoK9dQjDaU8j.8jgPOnkz5ePGkn4J?startTime=1690918818000)]
 #### Session 1 (1:00 pm - 2:25 pm PST)
 - Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) [[slides](https://drive.google.com/file/d/1Q4qTAr6PcHgA4J_ClYR_F1pW8ZNHxlLp/view?usp=sharing)]
   - ISL: Section 5.1 and Section 13.2 (Cross-validation)
